@@ -22,6 +22,7 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
   - [Build & Site Plugins](#build--site-plugins)
   - [Format Converters](#format-converters)
   - [AI & Agent Tooling](#ai--agent-tooling)
+  - [Companion Tools](#companion-tools)
 - [For Tinkerers](#for-tinkerers)
   - [Editor Integrations](#editor-integrations)
   - [Smart Home & Hardware](#smart-home--hardware)
@@ -48,6 +49,7 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
 
 - [cook.md](https://cook.md) — AI-powered recipe converter. Paste a URL, image, or text and get back Cooklang.
 - [Cooklang Playground](https://cooklang.github.io/cooklang-rs/) — In-browser editor with raw parser output, powered by `cooklang-rs` compiled to WebAssembly.
+- [Cooklang Toolbox](https://cl-toolbox.com/) — Browser-based viewer and editor with cooking mode, shopping lists, batch upload/download, and AI-powered URL imports. Freemium.
 
 ### Recipe Discovery
 
@@ -106,17 +108,25 @@ For generating recipe websites from `.cook` files.
 
 - [cooklang-to-md](https://crates.io/crates/cooklang-to-md) — Cooklang → Markdown. Rust.
 - [cooklang-epub](https://github.com/pakohan/cooklang-epub) — Cooklang → EPUB. Go.
+- [cookbook-creator](https://github.com/cooklang/cookbook-creator) — Render a folder of `.cook` files into a PDF cookbook via CookCLI's LaTeX output.
 - [cooklang-sankey](https://www.npmjs.com/package/@4kk11/cooklang-sankey) — Build Sankey diagram data from a recipe.
 
 ### AI & Agent Tooling
 
 - [cooklang-skills](https://github.com/cooklang/cooklang-skills) — Skills for Claude and Codex agents: create, import, validate, scale, meal-plan, manage a pantry, and export Cooklang recipes from inside an agent session.
 
+### Companion Tools
+
+Separate specifications and tools designed to compose with Cooklang.
+
+- [nutrition-rs](https://github.com/jafayer/nutrition-rs) — Plaintext nutrition-tracking spec and CLI; ingests Cooklang shopping lists via `--from-cook`. Rust.
+
 ## For Tinkerers
 
 ### Editor Integrations
 
 - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=dubadub.cook) — Syntax highlighting, validation, autocomplete.
+- [Endless Bounty](https://chronick.github.io/endless-bounty/) — Farmers-market-inspired VS Code colour theme tuned for `.cook` files.
 - [Cooklang for Obsidian](https://github.com/cooklang/cooklang-obsidian) — Recipe preview, interactive timers, shopping checklists inside Obsidian.
 - [tree-sitter-cooklang](https://github.com/addcninblue/tree-sitter-cooklang) — Tree-sitter grammar. Wire it into Neovim, Helix, Zed, or Emacs.
 - [cooklang-language-server](https://github.com/cooklang/cooklang-language-server) — LSP server. Works in any LSP-aware editor.
@@ -131,6 +141,7 @@ For generating recipe websites from `.cook` files.
 
 - [Federation](https://github.com/cooklang/federation) — Run your own federated recipe search node.
 - [CookCLI server](https://cooklang.org/cli/commands/server/) — Self-host a private recipe web UI with `cook server ./recipes`.
+- [cooklang-shopper](https://github.com/tmlmt/cooklang-shopper) — Self-hosted Nuxt app to manage recipes, build shopping lists, and send matching products to an online store cart. Alpha.
 
 ## Resources
 

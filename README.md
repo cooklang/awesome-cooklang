@@ -38,8 +38,8 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
 
 ### Mobile Apps
 
-- [Cook for iOS](https://apps.apple.com/us/app/cooklangapp/id1598799259) — Native iOS app. Syncs `.cook` files via iCloud Drive, Sync Agent, or any external service pointed at a selected local folder.
-- [Cook for Android](https://play.google.com/store/apps/details?id=md.cook.android) — Native Android app. Syncs `.cook` files via Sync Agent or any external service pointed at a selected local folder.
+- [Cook for iOS](https://apps.apple.com/us/app/cooklangapp/id1598799259) — Native iOS app. Syncs `.cook` files via iCloud Drive, [Sync Agent](https://github.com/cook-md/sync-agent), or any external service pointed at a selected local folder.
+- [Cook for Android](https://play.google.com/store/apps/details?id=md.cook.android) — Native Android app. Syncs `.cook` files via [Sync Agent](https://github.com/cook-md/sync-agent) or any external service pointed at a selected local folder.
 
 ### Desktop & Editors
 
@@ -135,7 +135,7 @@ Separate specifications and tools designed to compose with Cooklang.
 
 - [homeassistant-cookcli](https://github.com/cooklang/homeassistant-cookcli) — Home Assistant custom component. Meal-plan calendar, shopping list as a Todo entity, pantry sensors, recipe stats. HACS-compatible.
 - [Raspberry Pi kitchen display guide](https://cooklang.org/blog/17-raspberry-pi-kitchen-display/) — Build a touchscreen kitchen display backed by CookCLI.
-- [Sync Agent](https://cook.md/download) — Lightweight desktop sync service that keeps a recipe folder in sync with the iOS and Android apps.
+- [Sync Agent](https://github.com/cook-md/sync-agent) — Lightweight desktop sync service that keeps a recipe folder in sync with the iOS and Android apps.
 
 ### Self-Hosting
 

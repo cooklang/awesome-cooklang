@@ -38,8 +38,8 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
 
 ### Mobile Apps
 
-- [Cook for iOS](https://apps.apple.com/us/app/cooklangapp/id1598799259) — Native iOS app. Sync your `.cook` files via iCloud Drive.
-- [Cook for Android](https://play.google.com/store/apps/details?id=md.cook.android) — Native Android app, with optional desktop sync agent.
+- [Cook for iOS](https://apps.apple.com/us/app/cooklangapp/id1598799259) — Native iOS app. Syncs `.cook` files via iCloud Drive, Sync Agent, or any external service pointed at a selected local folder.
+- [Cook for Android](https://play.google.com/store/apps/details?id=md.cook.android) — Native Android app. Syncs `.cook` files via Sync Agent or any external service pointed at a selected local folder.
 
 ### Desktop & Editors
 

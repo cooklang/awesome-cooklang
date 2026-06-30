@@ -114,6 +114,9 @@ For generating recipe websites from `.cook` files.
 ### AI & Agent Tooling
 
 - [cooklang-skills](https://github.com/cooklang/cooklang-skills) — Skills for Claude and Codex agents: create, import, validate, scale, meal-plan, manage a pantry, and export Cooklang recipes from inside an agent session.
+- [Cooklang Recipe Writer](https://socialistic.ai/en/skill/cooklang-recipe-writer-74f4f9) — Convert plain-text recipes to tagged `.cook` files in the browser.
+- [Cooklang Parser](https://socialistic.ai/en/skill/cooklang-parser-f0b4d1) — Parse and scale `.cook` files online without installing a toolchain.
+- [CookCLI Recipe Manager](https://socialistic.ai/en/skill/cookcli-recipe-manager-1a6374) — Generate shopping lists, scale recipes, and build meal plans from `.cook` files online.
 
 ### Companion Tools
 

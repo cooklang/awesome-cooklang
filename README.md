@@ -146,6 +146,7 @@ Separate specifications and tools designed to compose with Cooklang.
 - [Federation](https://github.com/cooklang/federation) — Run your own federated recipe search node.
 - [CookCLI server](https://cooklang.org/cli/commands/server/) — Self-host a private recipe web UI with `cook server ./recipes`.
 - [cooklang-shopper](https://github.com/tmlmt/cooklang-shopper) — Self-hosted Nuxt app to manage recipes, build shopping lists, and send matching products to an online store cart. Alpha.
+- [Easypanel](https://easypanel.io/templates/cookcli) — One-click Docker template to self-host the CookCLI server on your own Easypanel instance.
 
 ## Resources
 

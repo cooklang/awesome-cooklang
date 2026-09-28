@@ -50,6 +50,7 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
 - [cook.md](https://cook.md) — AI-powered recipe converter. Paste a URL, image, or text and get back Cooklang.
 - [Cooklang Playground](https://cooklang.github.io/cooklang-rs/) — In-browser editor with raw parser output, powered by `cooklang-rs` compiled to WebAssembly.
 - [Cooklang Toolbox](https://cl-toolbox.com/) — Browser-based viewer and editor with cooking mode, shopping lists, batch upload/download, and AI-powered URL imports. Freemium.
+- [Plaintext Pantry](https://plaintextpantry.com) — Local-first recipe and grocery list manager that builds shopping lists and shared menus from `.cook` recipes, works offline, and syncs between devices. Free and open source; [source on GitHub](https://github.com/joe307bad/plaintextpantry).
 
 ### Recipe Discovery
 
@@ -118,6 +119,7 @@ For generating recipe websites from `.cook` files.
 - [Cooklang Recipe Writer](https://socialistic.ai/en/skill/cooklang-recipe-writer-74f4f9) — Convert plain-text recipes to tagged `.cook` files in the browser.
 - [Cooklang Parser](https://socialistic.ai/en/skill/cooklang-parser-f0b4d1) — Parse and scale `.cook` files online without installing a toolchain.
 - [CookCLI Recipe Manager](https://socialistic.ai/en/skill/cookcli-recipe-manager-1a6374) — Generate shopping lists, scale recipes, and build meal plans from `.cook` files online.
+- [Plaintext Pantry MCP](https://plaintextpantry.com/mcp) — Hosted MCP server giving an assistant read and write access to the Cooklang recipes, tags, shopping lists, and menus in a [Plaintext Pantry](https://plaintextpantry.com) account, over OAuth.
 
 ### Companion Tools
 

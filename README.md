@@ -119,6 +119,7 @@ For generating recipe websites from `.cook` files.
 - [Cooklang Recipe Writer](https://socialistic.ai/en/skill/cooklang-recipe-writer-74f4f9) — Convert plain-text recipes to tagged `.cook` files in the browser.
 - [Cooklang Parser](https://socialistic.ai/en/skill/cooklang-parser-f0b4d1) — Parse and scale `.cook` files online without installing a toolchain.
 - [CookCLI Recipe Manager](https://socialistic.ai/en/skill/cookcli-recipe-manager-1a6374) — Generate shopping lists, scale recipes, and build meal plans from `.cook` files online.
+- [Plaintext Pantry MCP](https://plaintextpantry.com/mcp) — Hosted MCP server giving an assistant read and write access to the Cooklang recipes, tags, shopping lists, and menus in a [Plaintext Pantry](https://plaintextpantry.com) account, over OAuth.
 
 ### Companion Tools
 

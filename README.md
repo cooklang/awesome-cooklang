@@ -38,8 +38,8 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
 
 ### Mobile Apps
 
-- [Cook for iOS](https://apps.apple.com/us/app/cooklangapp/id1598799259) — Native iOS app. Syncs `.cook` files via iCloud Drive, [Sync Agent](https://github.com/cook-md/sync-agent), or any external service pointed at a selected local folder.
-- [Cook for Android](https://play.google.com/store/apps/details?id=md.cook.android) — Native Android app. Syncs `.cook` files via [Sync Agent](https://github.com/cook-md/sync-agent) or any external service pointed at a selected local folder.
+- [Cook for iOS](https://apps.apple.com/us/app/cooklangapp/id1598799259) — Native iOS app. Syncs `.cook` files via [Cook Cloud sync](https://cook.md/), iCloud Drive, [Sync Agent](https://github.com/cook-md/sync-agent), or any external service pointed at a selected local folder.
+- [Cook for Android](https://play.google.com/store/apps/details?id=md.cook.android) — Native Android app. Syncs `.cook` files via [Cook Cloud sync](https://cook.md/), [Sync Agent](https://github.com/cook-md/sync-agent) or any external service pointed at a selected local folder.
 
 ### Desktop & Editors
 
@@ -47,7 +47,7 @@ For curated recipe collections written *in* Cooklang, see [awesome-cooklang-reci
 
 ### Web Apps
 
-- [cook.md](https://cook.md) — AI-powered recipe converter. Paste a URL, image, or text and get back Cooklang.
+- [cook.md](https://cook.md) — Cook Cloud sync for `.cook` files across the Cook apps, Cook Editor, CookCLI and Sync Agent, plus a [recipe converter](https://cook.md/cookifies/new): paste a URL, image, or text and get back Cooklang. Both need Cook Basic.
 - [Cooklang Playground](https://cooklang.github.io/cooklang-rs/) — In-browser editor with raw parser output, powered by `cooklang-rs` compiled to WebAssembly.
 - [Cooklang Toolbox](https://cl-toolbox.com/) — Browser-based viewer and editor with cooking mode, shopping lists, batch upload/download, and AI-powered URL imports. Freemium.
 - [Plaintext Pantry](https://plaintextpantry.com) — Local-first recipe and grocery list manager that builds shopping lists and shared menus from `.cook` recipes, works offline, and syncs between devices. Free and open source; [source on GitHub](https://github.com/joe307bad/plaintextpantry).

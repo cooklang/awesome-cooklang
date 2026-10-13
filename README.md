@@ -86,6 +86,7 @@ One canonical pick per language. See [`parsers.md`](parsers.md) for alternative 
 - **Ruby** — [cooklang_rb](https://github.com/drbragg/cooklang_rb) ([RubyGems](https://rubygems.org/gems/cooklang_rb))
 - **Rust** — [cooklang-rs](https://github.com/cooklang/cooklang-rs) — see *Official Libraries* above.
 - **Swift** — [CookInSwift](https://github.com/cooklang/CookInSwift) — used by the iOS app.
+- **Zig** — [oliver](https://github.com/drawmeanelephant/oliver) — Typed Recipe parser and HTML renderer passing the official canonical corpus; ships a C ABI.
 
 ### CLI Tools
 
@@ -104,6 +105,7 @@ For generating recipe websites from `.cook` files.
 - [markdown-it-cooklang](https://github.com/ulfschneider/markdown-it-cooklang) — markdown-it.
 - [n8n-nodes-cooklang](https://www.npmjs.com/package/n8n-nodes-cooklang) — Custom nodes for n8n workflows.
 - [cookhub](https://www.npmjs.com/package/cookhub) — Pull and parse recipes from GitHub repositories.
+- [boris](https://github.com/drawmeanelephant/boris) — Deterministic static publication compiler (Zig); parses and scales Cooklang recipes via Oliver.
 
 ### Format Converters
 

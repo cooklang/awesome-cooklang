@@ -164,8 +164,8 @@ Separate specifications and tools designed to compose with Cooklang.
 
 ### Talks
 
-- [Cooklang at FOSDEM](https://youtu.be/3uYmduWuhNk)
-- [Cooklang at OggCamp](https://youtu.be/lZUqhxX9-w8)
+- [Cooklang at FOSDEM](https://youtu.be/lZUqhxX9-w8)
+- [Cooklang at OggCamp](https://youtu.be/3uYmduWuhNk)
 
 ### Articles
 
